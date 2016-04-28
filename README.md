@@ -7,5 +7,5 @@ Just run app.py and a directory xkcd will be created in the current directory.
 
 One of my faves:
 
-![alt tag](https://github.com/victak/xkcd-scraper/blob/master/a_bunch_of_rocks.png?raw=true)
+![alt tag](https://github.com/wpvic/xkcd-scraper/blob/master/a_bunch_of_rocks.png?raw=true)
 
